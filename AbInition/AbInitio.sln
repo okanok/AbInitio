@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbInition", "AbInition\AbInition.csproj", "{BF4A89B5-4AE8-41FA-BFED-4C38646ABB89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbInitio", "AbInition\AbInitio.csproj", "{BF4A89B5-4AE8-41FA-BFED-4C38646ABB89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
